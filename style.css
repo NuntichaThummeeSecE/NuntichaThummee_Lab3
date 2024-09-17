@@ -3,11 +3,12 @@ th,
 td {
     border: 1px solid;
     border-collapse: collapse;
+    padding: 2%;
+    text-align: center;
 }
 
 table {
     border-color: #2a1200;
-    text-align: center;
     width: 100%;
     height: 80%;
     border-width: 2px;
