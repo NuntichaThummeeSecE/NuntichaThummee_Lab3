@@ -1,12 +1,15 @@
 table,
 th,
 td {
-    border: 1px black solid;
+    border: 1px solid;
     border-collapse: collapse;
-    padding: 50 50 50 50;
-    padding: 100%;
-    text-align: center;
+}
+
+table {
     border-color: #2a1200;
+    text-align: center;
+    width: 100%;
+    height: 80%;
     border-width: 2px;
 }
 
