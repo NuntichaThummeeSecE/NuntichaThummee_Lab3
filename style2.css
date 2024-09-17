@@ -2,8 +2,14 @@ h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-body {
+label {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: flex-start;
+    margin: 1%;
+}
+input {
+    float: right;
+    display: flex;
+    align-items: flex-end;
 }
