@@ -1,12 +1,19 @@
-figure{
+figure {
     float: right;
     margin: 1.7%;
     text-align: center;
 }
-iframe{
+
+iframe {
     float: left;
     margin: 1.7%;
 }
-h1{
+
+h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+audio {
+    width: 45%;
+    margin-left: 2.2%;
 }
