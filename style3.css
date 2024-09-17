@@ -17,3 +17,8 @@ audio {
     width: 45%;
     margin-left: 2.2%;
 }
+figcaption{
+    margin-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
