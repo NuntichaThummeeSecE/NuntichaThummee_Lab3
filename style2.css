@@ -1,8 +1,9 @@
-input [type=text],
-textarea {
-    border: 1px black solid;
-    border-width: 2px;
-    width: 80%;
-    margin: 2%;
-    float: right;
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
