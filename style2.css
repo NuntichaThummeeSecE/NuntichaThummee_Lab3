@@ -4,4 +4,5 @@ textarea {
     border-width: 2px;
     width: 80%;
     padding: 2%;
+    float: right;
 }
