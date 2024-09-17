@@ -2,4 +2,6 @@ input {
     border: 1px black solid;
     border-width: 2px;
     width: 80%;
+    padding: 2%;
+    
 }
