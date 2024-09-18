@@ -1,12 +1,13 @@
 header {
     background: #ffe6e6;
-    padding: 5%;
+    padding: 2%;
     display: flex;
     justify-content: space-between;
 }
 
 header h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
 
 }
 
@@ -19,6 +20,7 @@ nav a {
 
 .sidebar {
     margin-top: 1%;
+    margin-right: 3%;
     width: 5%;
     background-color: pink;
     height: 100%;
@@ -39,8 +41,17 @@ nav a {
     background-color: rgb(165, 84, 98);
 }
 
+article {
+    margin: 3%;
+    margin-left: 10%;
+    margin-right: 3%;
+    text-align: left;
+}
 
 footer {
+    margin-top: 5%;
     text-align: center;
     margin-right: 2%;
+    font-size: smaller;
+
 }
