@@ -2,6 +2,8 @@ header {
     background: #ffe6e6;
     padding: 5%;
     text-align: left;
+    display: flex;
+    justify-content: space-between;
 }
 
 header h1 {
@@ -9,6 +11,8 @@ header h1 {
 }
 
 nav a {
-    margin-left: auto;
-    margin: 10%;
+    text-decoration: none;
+    margin: 15px;
+    display: flex;
+    justify-content: flex-end;
 }
