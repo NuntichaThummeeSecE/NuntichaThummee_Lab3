@@ -20,15 +20,15 @@ nav a {
 .sidebar {
     margin-top: 1%;
     width: 5%;
-    background-color: pink; 
-    height: 100%; 
-    padding: 2%; 
+    background-color: pink;
+    height: 100%;
+    padding: 2%;
 }
 
 .sidebar a {
     display: block;
-    text-align: center; 
-    text-decoration: none;  
+    text-align: center;
+    text-decoration: none;
     border-radius: 10%;
     margin-bottom: 20%;
 }
@@ -36,3 +36,8 @@ nav a {
 .sidebar a:hover {
     background-color: rgba(0, 0, 0, 0.1);
 }
+
+.contents {
+    padding-left: 5%;
+}
+
