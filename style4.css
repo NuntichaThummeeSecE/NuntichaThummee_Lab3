@@ -18,17 +18,19 @@ nav a {
 }
 
 .sidebar {
-    margin: 0;
-    width: 100;
+    margin: 2;
+    width: 30;
     background-color: pink;
     height: 100%;
     position: fixed;
+    line-height: 5%;
 }
 
 .sidebar a {
     display: block;
-    color: red;
-    margin: 2%;
-    text-decoration: none;
-    border-top: 1px solid;
+    color: rgb(56, 56, 56);
+    height: 10%;
+    width: auto;
+    line-height: 10%;
+    text-align: center;
 }
