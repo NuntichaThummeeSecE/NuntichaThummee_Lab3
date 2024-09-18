@@ -1,0 +1,14 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5%;
+}
+
