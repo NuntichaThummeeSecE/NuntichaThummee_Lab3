@@ -11,15 +11,32 @@ h3 {
 label {
     display: block;
     margin-bottom: 1%;
+    margin-left: 1%;
 }
 
-input{
+input {
     width: 96%;
     padding: 1%;
     margin: 0.5%;
 }
+
 textarea {
     width: 88%;
     padding: 5%;
     margin: 0.5%;
+}
+select{
+    margin-left: 1%;
+    padding: 0.5%;
+}
+
+button {
+    background-color: rgb(70, 70, 70);
+    color: aliceblue;
+    border-radius: 20%;
+    margin-left: 2%;
+}
+
+button:hover {
+    background-color: rgb(255, 95, 244);
 }
